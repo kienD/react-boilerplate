@@ -1,0 +1,28 @@
+{
+  "name": "reat-boilerplate",
+  "version": "1.0.0",
+  "description": "boiler plate react setup with es6, sass, & react-bootstrap",
+  "main": "src/js/main.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch"
+  },
+  "author": "kienD",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.8",
+    "react-dom": "^15.4.2",
+    "sass-loader": "^6.0.3"
+  }
+}
