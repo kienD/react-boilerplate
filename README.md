@@ -12,3 +12,6 @@ You can clone this repo and then run the command `npm install` in the root direc
 
 # Run 
 You can build this boilerplate by running the command `npm run build`.  You can also use `npm run watch` to update on change.
+
+# Useful References
+- [react-bootstrap component references](https://react-bootstrap.github.io/components.html)
